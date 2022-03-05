@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "OneTenth Art"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "OneTenth"
 description              : "An amazing website."
 url                      : "https://onetenthart.github.io"
 future                   : true
