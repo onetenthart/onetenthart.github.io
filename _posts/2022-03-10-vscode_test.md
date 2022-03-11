@@ -4,6 +4,8 @@ published: true
 title:  "vscode write"
 ---
 
+** 실시간 업데이트 확인 **
+
 
 미래 날짜  
 future                   : true
@@ -14,14 +16,16 @@ published: true
 layout: post
 title:  "Welcome to Jekyll!"
 
-- header
 
+캡쳐 이미지  
+plug in : paste image
 
-- Header
-- sdflkjdsk
-- sdlfkjskdl
+이미지 넣기  
+> ! [Alt text] (/images/logo.png)
 
 
 
 ![Alt text](/images/cow.png)
+
+
 
