@@ -64,7 +64,15 @@ localhost:4000
 gem install wdm 실행  
 gem 'wdm', '>= 0.1.0' 를 gemfile 에 추가  
 
+bundle exec jekyll serve 실행 하기전에 온라인 서버와 포스팅 상태가 같아야 하는 것 같다  
+bundle exec jekyll serve --livereload 실행명령도 있음  
 
+ Build Warning: Layout 'post' requested in _posts/2022-03-10-vscode_test.md does not exist. 에러는 아직 미해결   
+https://gist.github.com/MichaelCurrin/5c8c45a86bcf53d7b49a7763c02943b1  
+여기 내용 참고 할 만 한듯  
+https://bundler.io/ 확인  
+
+Incremental build: disabled. Enable with --incremental  
 
 
 

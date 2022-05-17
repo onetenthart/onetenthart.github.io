@@ -6,6 +6,10 @@ title:  "vscode write"
 
 ** 실시간 업데이트 확인 **
 
+업데이트 확인 2  
+업데이트 확인 3  
+업데이트 확인 4  
+업데이트 확인 5  
 
 미래 날짜  
 future                   : true
@@ -28,4 +32,15 @@ plug in : paste image
 ![Alt text](/images/cow.png)
 
 
+양식
+### o● 
+---
 
+##### 
+```
+<--- 작성 --->  
+
+```
+<--- 결과 --->  
+
+<br><br>
